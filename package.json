@@ -1,17 +1,17 @@
 {
-"name": "SlotPG_789KM",
-"theme": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง",
-"version": "0.10.9",
-"description": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง ไม่ผ่านเอเยนต์ แตกหนัก แจกหนัก",
-"keywords": [
-  "สล็อต",
-  "เว็บตรง",
-  "สล็อตไม่ผ่านเอเยนต์",
-  "PG"
-],
-"repository": "https://github.com/mrslomo/SlotPG_789KM.git",
-"license": "MIT",
-"engines": {
-  "atom": ">=1.0.0 <2.0.0"
-}
+  "name": "SlotPG_789KM",
+  "theme": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง",
+  "version": "0.10.10",
+  "description": "PG สล็อตPG แตกหนัก สล็อตเว็บตรง ไม่ผ่านเอเยนต์ แตกหนัก แจกหนัก",
+  "keywords": [
+    "สล็อต",
+    "เว็บตรง",
+    "สล็อตไม่ผ่านเอเยนต์",
+    "PG"
+  ],
+  "repository": "https://github.com/mrslomo/SlotPG_789KM.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
